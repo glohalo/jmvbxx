@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jmvbxx</title>
-    <link>https://jmvbxx.github.io/</link>
-    <description>Recent content on jmvbxx</description>
+    <title>Cvs on jmvbxx</title>
+    <link>https://jmvbxx.github.io/cv/</link>
+    <description>Recent content in Cvs on jmvbxx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Jan 2019 18:41:16 -0500</lastBuildDate>
     
-	<atom:link href="https://jmvbxx.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jmvbxx.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://jmvbxx.github.io/cv/resume/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>First post</title>
-      <link>https://jmvbxx.github.io/posts/first-post/</link>
-      <pubDate>Sat, 05 Jan 2019 17:14:46 -0500</pubDate>
-      
-      <guid>https://jmvbxx.github.io/posts/first-post/</guid>
-      <description> Resume </description>
     </item>
     
   </channel>

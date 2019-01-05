@@ -3,7 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jmvbxx.github.io/cv/resume/</loc>
+    <lastmod>2019-01-05T18:41:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmvbxx.github.io/posts/first-post/</loc>
+    <lastmod>2019-01-05T17:14:46-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jmvbxx.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmvbxx.github.io/cv/</loc>
+    <lastmod>2019-01-05T18:41:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmvbxx.github.io/posts/</loc>
+    <lastmod>2019-01-05T17:14:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +36,7 @@
   
   <url>
     <loc>https://jmvbxx.github.io/</loc>
+    <lastmod>2019-01-05T18:41:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
