@@ -18,7 +18,7 @@ pygmentscodefencesguesssyntax = true
     info = "DevOps, Security & Golang"
     description = "Jason Bornhoft's personal website"
     keywords = "blog,developer,personal,devops,security,golang"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/jason.jpeg"
 
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
