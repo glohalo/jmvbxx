@@ -9,4 +9,6 @@ categories = []
 
 # First Post
 
-
+I created this site to serve as an online representation of who I am
+professionally. The idea is to combine a bit of visual, along with a resume and
+some blog posts here and there.
