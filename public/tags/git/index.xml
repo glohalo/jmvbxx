@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on jmvbxx</title>
-    <link>https://jmvbxx.github.io/posts/</link>
-    <description>Recent content in Posts on jmvbxx</description>
+    <title>Git on jmvbxx</title>
+    <link>https://jmvbxx.github.io/tags/git/</link>
+    <description>Recent content in Git on jmvbxx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Jan 2019 22:44:18 -0500</lastBuildDate>
     
-	<atom:link href="https://jmvbxx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jmvbxx.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description> Revert Git Commits Let&amp;rsquo;s keep this first simple by focusing on a simple, yet helpful, git change. Sometimes mistakes are made and commits need to be reverted. There are two options depending on whether the commit has been pushed or not.
 Commit not pushed git reset HEAD~1
 Commit pushed  git reset --hard &amp;lt;desired_commit&amp;gt; (eg. 57f05fgds) git reset --soft HEAD@{1} git commit -m &amp;quot;Revert to 57f05fgds&amp;quot;  </description>
-    </item>
-    
-    <item>
-      <title>First post</title>
-      <link>https://jmvbxx.github.io/posts/first-post/</link>
-      <pubDate>Sat, 05 Jan 2019 17:14:46 -0500</pubDate>
-      
-      <guid>https://jmvbxx.github.io/posts/first-post/</guid>
-      <description>First Post I created this site to serve as an online representation of who I am professionally. The idea is to combine a bit of visual, along with a resume and some blog posts here and there.
-I&amp;rsquo;m not a huge fan of some of the more traditional ways of representing oneself and decided that this was the best tool to allow insight into who I am and why I work in this field.</description>
     </item>
     
   </channel>
