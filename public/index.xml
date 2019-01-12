@@ -17,7 +17,8 @@
       <pubDate>Sat, 05 Jan 2019 17:14:46 -0500</pubDate>
       
       <guid>https://jmvbxx.github.io/posts/first-post/</guid>
-      <description>First Post I created this site to serve as an online representation of who I am professionally. The idea is to combine a bit of visual, along with a resume and some blog posts here and there.</description>
+      <description>First Post I created this site to serve as an online representation of who I am professionally. The idea is to combine a bit of visual, along with a resume and some blog posts here and there.
+I&amp;rsquo;m not a huge fan of some of the more traditional ways of representing oneself and decided that this was the best tool to allow insight into who I am and why I work in this field.</description>
     </item>
     
     <item>
@@ -36,13 +37,13 @@ Since joining the IT crowd ;-) I have gone from Systems Administrator to DevOps 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jmvbxx.github.io/cv/</guid>
-      <description>Examples of tools used TBD
-Work history 2018 - Present Doximity Inc. - DevOps Engineer, Security
+      <description>Education TBD
+Certification TBD
+Open source tools built TBD
+Open source tools contributed to  gobuffalo  Work history 2018 - Present Doximity Inc. - DevOps Engineer, Security
 As one of the original members of the Security team, much time has been spent on auditing of resources and policies. New best-practices are being established and implemented.
-2017 - 2018 Gubagoo Inc. - Senior DevOps
-2016 Hornet.com - DevOps Engineer (Contract)
-2015 - 2016 ReactiveOps &amp;amp; ManageBac - Site Reliability Engineer
-Education TBD</description>
+2017 - 2018 Gubagoo Inc. - Senior Site Reliability Engineer
+The original team of 13 developers did not have a dedicated DevOps engineer so the primary responsibility for the first year was to design and build the entire infrastructure in Terraform and Ansible.</description>
     </item>
     
   </channel>
