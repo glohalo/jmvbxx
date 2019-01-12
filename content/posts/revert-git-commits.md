@@ -1,5 +1,4 @@
 +++
-draft = false
 title = "Revert Git Commits"
 date = 2019-01-07T22:44:18-05:00
 slug = "revert-git-commits" 
