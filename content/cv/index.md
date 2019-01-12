@@ -1,19 +1,3 @@
-# Education
-
-TBD
-
-# Certification
-
-TBD
-
-# Open source tools built
-
-TBD
-
-# Open source tools contributed to
-
-- [gobuffalo](https://github.com/gobuffalo/gobuffalo)
-
 # Work history
 
 2018 - Present</br>
@@ -36,6 +20,18 @@ A contract position for the creation of a full infrastructure in Terraform for o
 
 Originally starting with ReactiveOps and then moving to Managebac once they split ways, I worked directly with both the ReactiveOps engineers and then the CTO of Managebac. The position was almost exclusively Ansible provisionsing of resources.
 
-# Examples of tools used
+# Open source tools built
+
+TBD
+
+# Open source tools contributed to
+
+- [gobuffalo](https://github.com/gobuffalo/gobuffalo)
+
+# Education
+
+TBD
+
+# Certification
 
 TBD
